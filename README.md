@@ -4,14 +4,14 @@ This repository contains the datasets and code supporting the research article *
 
 ## Repository Contents
 - **Datasets**:
-  - `travel_activities_50000.csv`: A dataset of 50,000 travel activities across 10 destinations, used for itinerary recommendations.
+  - `travel_activities.csv`: A dataset of 50,000 travel activities across 10 destinations, used for itinerary recommendations.
   - `user_study_logs.csv`: Interaction logs from a user study with 50 participants evaluating three interfaces (150 rows total).
 - **Supplementary Materials**:
   - Additional figures and tables (e.g., raw SUS and NASA-TLX data) are referenced in the manuscript and available via Zenodo.
 
 ## Dataset Description
 
-### 1. Travel Database (`travel_activities_50000.csv`)
+### 1. Travel Database (`travel_activities.csv`)
 - **Description**: A comprehensive dataset of 50,000 travel activities across 10 global destinations, curated for use in an LLM-based itinerary planning system.
 - **Attributes**:
   - `ActivityID`: Unique identifier (1 to 50,000).
