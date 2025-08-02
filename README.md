@@ -1,6 +1,6 @@
 # LLM-Guided Itinerary Planning Dataset and Code
 
-This repository contains the datasets and code supporting the research article *"Personalized Itinerary Planning with LLM-Guided Interaction"* by Mohamed Badouch and Mehdi Boutaounte, submitted to *Electronics* (MDPI). The study evaluates a large language model (LLM)-guided system for personalized travel itinerary planning, comparing conversational, form-based, and hybrid interfaces using usability (System Usability Scale, SUS), cognitive load (NASA-TLX), efficiency, and satisfaction metrics.
+This repository contains the datasets and code supporting the research article *"Personalized Itinerary Planning with LLM-Guided Interaction"* by Mohamed Badouch and Mehdi Boutaounte. The study evaluates a large language model (LLM)-guided system for personalized travel itinerary planning, comparing conversational, form-based, and hybrid interfaces using usability (System Usability Scale, SUS), cognitive load (NASA-TLX), efficiency, and satisfaction metrics.
 
 ## Repository Contents
 - **Datasets**:
